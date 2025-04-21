@@ -28,7 +28,7 @@ This repository contains a comprehensive Python application designed for stock m
 1. Clone the repository:  
    
 ```bash  
-git clone https://github.com/oleksissuper/alpha-ai-quant.git  
+git clone https://github.com/basdev20/alpha-ai-quant.git  
 cd alpha-ai-quant 
 ```  
    
